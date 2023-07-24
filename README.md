@@ -28,7 +28,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jahid140191&show_icons=true&locale=en&layout=compact" alt="jahid140191" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=jahid140191&show_icons=true&locale=en" alt="jahid140191" /></p>
+<p>&nbsp;<img align="left" width="100%" src="https://github-readme-stats.vercel.app/api?username=jahid140191&show_icons=true&locale=en" alt="jahid140191" /></p>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jahid140191" alt="jahid140191" /></a> </p>
