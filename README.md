@@ -1,4 +1,4 @@
-<img alt="banner" width="100%" height="400px" src="https://github.com/Jahid140191/Jahid140191/blob/main/banner/20230722_081742_0000.png?raw=true">
+<img alt="banner" width="100%" height="400px" src="https://github.com/Jahid140191/Jahid140191/blob/main/banner/png_20230722_081042_0000.png?raw=true">
 <h1 align="center">Hi 👋, I'm Jahid Hasan</h1>
 <h3 align="center">A passionate Web Designer from Bangladesh</h3>
 
