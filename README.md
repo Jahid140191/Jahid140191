@@ -8,7 +8,9 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 👨‍💻 All of my projects are available at [https://jahid140191.github.io/portfolio-use-html-css-/](https://jahid140191.github.io/portfolio-use-html-css-/)
+- 👨‍💻 All of my projects are available at [https://github.com/Jahid140191?tab=repositories]([https://jahid140191.git](https://github.com/Jahid140191?tab=repositories)
+  
+- 🔭 My portfolio Website at [https://jahid140191.github.io/portfolio-use-html-css-/](https://jahid140191.github.io/portfolio-use-html-css-/)
 
 - 💬 Ask me about **Html,Css and JavaScript**
 
